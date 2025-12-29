@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdc52b0cc4eee45a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f997b61fe83dd4ff",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d909007197aacb66",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cef35ba51326496",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b4fb7009797dd14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "218c0761ad7f2815",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "68120f4d48632857",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "7d8aadaa6875f7fd",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "477af94f3489ab50",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335.5
+  },
+  "right": {
+    "id": "bcfdeec2810eb841",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1a87c78af9e1c81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd2a979d829f0f55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "b87cc63d6c6860e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "87bcd58d1c3aeb68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "638b05acf653d431",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          },
+          {
+            "id": "0c5846cc4b29923e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "templater-obsidian:Templater": false,
+      "i18n:I18N": false,
+      "homepage:打开主页": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false
+    }
+  },
+  "active": "f997b61fe83dd4ff",
+  "lastOpenFiles": [
+    "高校与城市：教育名片为城市带来了什么？.md",
+    "柴小桑的背影.jpg",
+    "柴小桑证件照.jpg",
+    "AI 指令/整理出结构框架.md",
+    "柴桑笔记/Universities in, of, and beyond their cities.md",
+    "柴桑笔记/Towards symbiotic approaches between universities, sustainable development, and cities.md",
+    "柴桑笔记/The economic impact of universities：Evidence from across the globe.md",
+    "柴桑笔记/The Civic University and the City.md",
+    "柴桑笔记/China ascends global higher education ranking.md",
+    "柴桑笔记/中国省域高等教育资源集聚布局的创新效应研究_田浩然.md",
+    "柴桑笔记/以文化城：大学助力城市高质量发展的深化路径_孙雷.md",
+    "柴桑笔记/协调发展视域下地方高校与城市共生发展研究——基于韩国地方高校与创新城市联动的分析_阙明坤.md",
+    "柴桑笔记/王忠林在武汉大学调研时强调：着力培养一批既懂科技又懂产业的领军型人才，更好推动科技创新和产业创新深度融合发展-武汉大学新闻网.md",
+    "柴桑笔记/厦门有四张名片，你知道都是什么吗？.md",
+    "柴桑笔记/融合共生：地方高校助推城市高质量发展的逻辑与路径_牛风蕊.md",
+    "柴桑笔记/珞珈山上社论：风暴中心的武大人，该如何自持？.md",
+    "柴桑笔记/高校与区县经济增长——基于主要城市新建校区的实证分析_陈东阳.md",
+    "柴桑笔记/高校与城市创新能力——基于新建校区的准实验研究_陈东阳.md",
+    "柴桑笔记/大学多样化赋能青年发展型城市建设的互动图景、现实挑战与优化路径_陈亮.md",
+    "柴桑笔记/大学大城的千年演进：嵌入·链接·耦合.md",
+    "柴桑笔记/从网红流量到经济动能，武汉樱花背后的“城市雄心”.md",
+    "柴桑笔记/“腾笼换鸟”：高校布局调整 与区县产业协调发展.md",
+    "AI 指令/介绍文献.md",
+    "资讯文献/中国省域高等教育资源集聚布局的创新效应研究_田浩然.pdf",
+    "资讯文献/以文化城：大学助力城市高质量发展的深化路径_孙雷.pdf",
+    "资讯文献/协调发展视域下地方高校与城市共生发展研究——基于韩国地方高校与创新城市联动的分析_阙明坤.pdf",
+    "资讯文献/王忠林在武汉大学调研时强调：着力培养一批既懂科技又懂产业的领军型人才，更好推动科技创新和产业创新深度融合发展-武汉大学新闻网.pdf",
+    "资讯文献/厦门有四张名片，你知道都是什么吗？.pdf",
+    "资讯文献/融合共生：地方高校助推城市高质量发展的逻辑与路径_牛风蕊.pdf",
+    "资讯文献/珞珈山上社论：风暴中心的武大人，该如何自持？.pdf",
+    "资讯文献/高校与区县经济增长——基于主要城市新建校区的实证分析_陈东阳.pdf",
+    "资讯文献/高校与城市创新能力——基于新建校区的准实验研究_陈东阳.pdf",
+    "资讯文献/大学多样化赋能青年发展型城市建设的互动图景、现实挑战与优化路径_陈亮.pdf",
+    "资讯文献/大学大城的千年演进：嵌入·链接·耦合.md",
+    "资讯文献/资讯文献清单.md",
+    "资讯文献/The economic impact of universities：Evidence from across the globe.md",
+    "资讯文献/Universities in, of, and beyond their cities.md",
+    "相册/人物图鉴/佐保里.jpg",
+    "相册/人物图鉴/椰椰头.jpg",
+    "相册/人物图鉴/柴小桑的背影.jpg",
+    "相册/人物图鉴/柴小桑证件照.jpg",
+    "外刊资讯/图像/读书买书，我最喜欢这些出版社和出版公司-cfZF40Le3G.jpeg",
+    "外刊资讯/图像/读书买书，我最喜欢这些出版社和出版公司-bxBFH5bvg2.jpeg",
+    "外刊资讯/图像/读书买书，我最喜欢这些出版社和出版公司-itesoyUqHe.jpeg",
+    "瓦尔·布兰德特, 布雷西亚, 伦巴第大区, 意大利.jpg",
+    "未命名.canvas",
+    "the Attic/示例看板.canvas",
+    "the Attic/同步方式.canvas",
+    "obsidian-tasks-main/obsidian-tasks-main/resources/sample_vaults/Tasks-Demo/Manual Testing/Frontmatter/Frontmatter code.canvas",
+    "the Attic/示例白板.canvas"
+  ]
+}
